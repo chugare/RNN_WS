@@ -1,0 +1,7 @@
+
+VEC_SIZE = 6000
+UNIT_NUM = 100
+FORGET_B = 0.5
+BATCH_SIZE = 10
+LEARNING_RATE = 0.001
+ULSW = [' ','\t','\n']

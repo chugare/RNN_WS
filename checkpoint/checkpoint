@@ -1,0 +1,6 @@
+model_checkpoint_path: "E:\\RNN_WS\\checkpoint\\rnnws-42"
+all_model_checkpoint_paths: "E:\\RNN_WS\\checkpoint\\rnnws-38"
+all_model_checkpoint_paths: "E:\\RNN_WS\\checkpoint\\rnnws-39"
+all_model_checkpoint_paths: "E:\\RNN_WS\\checkpoint\\rnnws-40"
+all_model_checkpoint_paths: "E:\\RNN_WS\\checkpoint\\rnnws-41"
+all_model_checkpoint_paths: "E:\\RNN_WS\\checkpoint\\rnnws-42"
