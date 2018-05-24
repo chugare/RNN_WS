@@ -63,8 +63,6 @@ class OneHotEncoder:
     def get_code(self,letter):
         return self.dic[letter]
     def get_word(self,arg):
-
-
         if hasattr(arg,'shape') and len(arg.shape) == 2:
             w = ''
             for wl in arg:
@@ -75,7 +73,6 @@ class OneHotEncoder:
             num = np.argmax(arg)
             return self.wordlist[num]
         else:
-
             w = self.wordlist[arg]
             return w
     def one_hot_single(self,line,isNumber = False):
